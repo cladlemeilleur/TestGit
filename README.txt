@@ -1,7 +1,11 @@
-L'objectif du projet sera de tester les fonctionnalités de git.
-Création d'une branche, Develop, Qualification, Master (production)
+TestGit
+--------
+
+
+L'objectif du projet sera de tester les fonctionnalitÃ©s de git.
+CrÃ©ation d'une branche, Develop, Qualification, Master (production)
 Effectuer des ajouts de fichiers, dossiers. (add, commit, push, pull)
 Effectuer des modifications, suppressions.
-Effectuer un revert d'une révision. (checkout)
+Effectuer un revert d'une rÃ©vision. (checkout)
 Effectuer des merges.
-Voir les différences entre 2 branches.
+Voir les diffÃ©rences entre 2 branches.
