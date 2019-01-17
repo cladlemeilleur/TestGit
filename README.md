@@ -10,3 +10,4 @@ Branche TestGit qui va me permettre de tester les commandes git et ses possibili
 + Effectuer un revert d'une révision. (checkout)
 + Effectuer des merges.
 + Voir les différences entre 2 branches.
++ Mettre de coter du code. git stash, git stash pop, git stash apply
